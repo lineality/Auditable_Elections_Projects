@@ -48,7 +48,7 @@ List of Parts of Election Rules and Procedures for Audit:
 ## On Access
 Regarding practical accessibility, it is not enough for access to information about how elections were carried out to be merely theoretical. Access and formatting of information for election auditing should be sufficiently standardized to make practical standard and best practice analysis procedures realistically feasible and accessible. (e.g. .csv files, standard downloads, standard api lookup, etc.) It may be desirable to have a standards-related federal agency such as NIST manage a repository for auditable election data. 
 
-## Bipartisan
+## On Partisanship
 Many 'on the left' are under the impression that there was widespread voter intimidation during the election of 2020. Many 'on the right' are under the impression that there was widespread voter fraud and mis-handling of votes during the 2020 election. All participants in the democratic election process should be able to agree that all such concerns and allegations should be able to be investigated based on verifiable public information. 
 
 .............
