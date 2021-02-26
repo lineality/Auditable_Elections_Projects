@@ -1,8 +1,7 @@
 # Auditable_Elections_Projects
-Auditable_Elections_Projects
 
 
-Auditable Elections Consensus Project
+## Outlining an Auditable Elections Consensus Project
 
 In light of the lack of nonpartisan best practice project completion around and including the 2020 federal elections in the USA, bipartisan support for election processes is of great practical value.  
 
